@@ -1,0 +1,30 @@
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}/* best practice */
+
+body {
+    background-color: rgb(196, 196, 28);
+}
+
+a {
+    color: rgb(196, 196, 28);
+    text-decoration: none;
+}
+
+.nav {
+    display: inline-block;
+    border: solid 2px rgb(85, 85, 29);
+    font-weight: bold;
+    font-size: 25px;
+    background-color: rgb(85, 85, 29) ;
+    padding: 3px;
+    margin-right: 5px;
+}
+
+.cook {
+  display: inline-block;
+  margin: 35px;
+}
