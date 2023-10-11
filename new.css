@@ -12,19 +12,20 @@ body {
 a {
     color: rgb(196, 196, 28);
     text-decoration: none;
+    background-color: rgb(85, 85, 29);
+    border: solid 1px rgb(85, 85, 29);
 }
 
 .nav {
     display: inline-block;
-    border: solid 2px rgb(85, 85, 29);
     font-weight: bold;
     font-size: 25px;
-    background-color: rgb(85, 85, 29) ;
     padding: 3px;
     margin-right: 5px;
+    border: solid 1px rgb(85, 85, 29);
 }
 
 .cook {
   display: inline-block;
-  margin: 35px;
+  margin: 33px;
 }
